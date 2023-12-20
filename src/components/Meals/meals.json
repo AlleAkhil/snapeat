@@ -1,0 +1,63 @@
+[
+    {
+      "id": "1",
+      "name": "Spaghetti Bolognese",
+      "description": "Classic Italian pasta with meat sauce",
+      "price": 899.99
+    },
+    {
+      "id": "2",
+      "name": "Chicken Caesar Salad",
+      "description": "Grilled chicken, crisp romaine, and Caesar dressing",
+      "price": 799.99
+    },
+    {
+      "id": "3",
+      "name": "Margherita Pizza",
+      "description": "Traditional pizza with tomato, mozzarella, and basil",
+      "price": 1149.99
+    },
+    {
+      "id": "4",
+      "name": "Teriyaki Salmon",
+      "description": "Grilled salmon glazed with teriyaki sauce",
+      "price": 1499.99
+    },
+    {
+      "id": "5",
+      "name": "Vegetarian Stir-Fry",
+      "description": "Assorted vegetables in a savory stir-fry sauce",
+      "price": 999.99
+    },
+    {
+      "id": "6",
+      "name": "BBQ Pulled Pork Sandwich",
+      "description": "Slow-cooked pulled pork with BBQ sauce on a bun",
+      "price": 1299.99
+    },
+    {
+      "id": "7",
+      "name": "Greek Salad",
+      "description": "Fresh salad with feta cheese, olives, and Greek dressing",
+      "price": 799.99
+    },
+    {
+      "id": "8",
+      "name": "Beef Tacos",
+      "description": "Tacos filled with seasoned ground beef and toppings",
+      "price": 899.99
+    },
+    {
+      "id": "9",
+      "name": "Shrimp Scampi",
+      "description": "Garlic butter shrimp served over linguine",
+      "price": 1499.99
+    },
+    {
+      "id": "10",
+      "name": "Mushroom Risotto",
+      "description": "Creamy risotto with mushrooms and Parmesan cheese",
+      "price": 1199.99
+    }
+  ]
+  
